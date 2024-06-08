@@ -5,6 +5,7 @@
 - Wire Shark
 - Dot files
 - UTM based on QEMU
+- OWASP Amass for [OSINT](https://github.com/owasp-amass)
 
 
 ## Tools on machine
